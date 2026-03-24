@@ -1,1 +1,1 @@
-# antfarm-demo
+# Antfarm Demo Project
